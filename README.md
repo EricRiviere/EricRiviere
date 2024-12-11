@@ -1,8 +1,8 @@
 ## Hi there, I'm Eric👋
 
-- 🔭 I’m currently studying at 42 School Barcelona
-- 🌱 I’m currently learning C.
-- 👯 I’m looking to collaborate on all possible projects
+- 🔭 Currently studying at 42 School Barcelona
+- 🌱 Currently learning C.
+- 👯 Looking to collaborate on all possible projects
 - 💬 Ask me about anything
 - 😄 Some of my hobbies are hiking, cycling, boxing.
 - 📫 How to reach me:
