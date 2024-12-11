@@ -17,8 +17,6 @@
 
 ![Profile Visits](https://komarev.com/ghpvc/?username=EricRiviere&color=blueviolet)
 
-![Stars](https://img.shields.io/github/stars/EricRiviere?style=for-the-badge&color=blue)
-
 ## LANGUAGES:
 
 | [![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](#) | [![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)](#) | [![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)](#) |
